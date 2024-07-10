@@ -1,5 +1,5 @@
 # Engine-operation-algorithm
-### Algorithm for operating servo tensor motors to form the robot's walking motion :
+### Algorithm to control servo motors to produce a walking motion for a robot :
 
 1. *Mechanical Design*:
    - Design the robot's legs and body structure. Consider using lightweight materials like straws or 3D-printed parts.
